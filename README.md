@@ -19,6 +19,6 @@ Link da ferramenta: <https://docs.npmjs.com/downloading-and-installing-node-js-a
 ---
 ## Execução do projeto em modo Headless
 
-* 1 - Seguir os passo '1' informado, em 'Execução do projeto em modo interativo'.
+* 1 - Seguir o passo '1' informado, em 'Execução do projeto em modo interativo'.
 * 2 - Comando para executar o Cypress em Modo Headless.<pre>npm run cy:run</pre>
 * 3 - A automação de testes será executada em Modo Headless.
