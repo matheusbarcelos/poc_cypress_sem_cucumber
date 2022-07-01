@@ -1,0 +1,15 @@
+{
+  "name": "poc_cypress_sem_cucumber",
+  "version": "1.0.0",
+  "description": "Projeto de Teste Utilizando Cypress sem Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run" : "cypress run"
+  },
+  "author": "Matheus Barcelos",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
