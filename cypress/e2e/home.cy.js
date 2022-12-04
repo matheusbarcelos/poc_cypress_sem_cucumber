@@ -8,7 +8,7 @@ describe('Home Ganhe Online', () => {
         cy.buttonAcceptAllCookies();
       });
 
-      it('Quando clico em cada menu na Home do GDO e sou ser redirecionado para a pagina do respectivo menu', () => {
+      it('Quando clico em cada menu na Home do GDO devo ser redirecionado para a pagina do respectivo menu', () => {
         home.clickOnCuponsAndVerifyPageVisit();
         home.clickOnParceirosAndVerifyPageVisit();
         home.clickOnCategoriasAndVerifyPageVisit();
